@@ -3,7 +3,7 @@
   "wake_word": "neenzaa",
   "author": "Kevin Ahrendt",
   "website": "https://www.t.com/",
-  "model": "./neenzaa.tflite",
+  "model": "https://github.com/devalgo1/test2/blob/main/neenzaa.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.6,
